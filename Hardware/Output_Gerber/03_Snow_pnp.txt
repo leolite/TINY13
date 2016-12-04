@@ -1,0 +1,43 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=03_Snow
+*Date=13:20:16
+*CreatedBy=Fritzing 0.9.1b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;15.2948;-26.7607;0;Bottom;J8
+2;;;39.4247;-21.3632;0;Bottom;VCC7
+3;;0805 [SMD];34.7201;-4.11258;-124.276;Top;LED1
+4;;;34.5911;-21.4764;90;Bottom;TXT10
+5;;THT;15.2948;-15.9657;0;Bottom;J1
+6;220;0805 [SMD];31.2995;-32.8538;121.138;Top;R3
+7;;0805 [SMD];14.5257;-3.8425;-60.7394;Top;LED5
+8;0.1?F;0805 [SMD, multilayer];28.9472;-21.6082;90;Top;C2
+9;;THT;34.0273;-15.9657;0;Bottom;J5
+10;;THT;24.8198;-10.5682;0;Bottom;J4
+11;;;13.9324;-40.0707;0;Bottom;Hole1
+12;;;10.2147;-21.3632;0;Bottom;GND7
+13;;0805 [SMD];34.7974;-38.8832;119.179;Top;LED3
+14;220;0805 [SMD];11.2397;-21.3632;0;Top;R4
+15;;THT;17.0017;-34.7246;58.2294;Bottom;--__--
+16;0.1?F;0805 [SMD, multilayer];20.6922;-21.6082;90;Top;C1
+17;220;0805 [SMD];18.0224;-9.87246;-60.4747;Top;R5
+18;;;13.5687;-21.4473;90;Bottom;TXT10
+19;;THT;34.0273;-26.7607;0;Bottom;J6
+20;;0805 [SMD];4.57224;-21.3632;0;Top;LED4
+21;220;0805 [SMD];31.5679;-9.52533;-122.731;Top;R1
+22;;so;24.8198;-21.4394;0;Top;TINY13
+23;;THT;24.8198;-32.1582;0;Bottom;J7
+24;;0805 [SMD];44.7497;-21.3632;180;Top;LED2
+25;;;37.7551;-21.2365;-90;Bottom;TXT10
+26;;;24.6839;-21.4241;0;Bottom;IMG3
+27;;;16.7945;-21.2901;90;Bottom;TXT10
+28;220;0805 [SMD];38.2272;-21.3632;180;Top;R2

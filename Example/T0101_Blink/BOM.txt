@@ -1,0 +1,6 @@
+BOM list
+1x Breadboard Mini
+1x Red LED 5mm
+1x 1/4W 5% 220¦¸ resistor
+2x 4Pin Straight male header 
+And some breadboard cables
